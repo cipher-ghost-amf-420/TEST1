@@ -1,1 +1,1 @@
-import class5
+import class5_cython
